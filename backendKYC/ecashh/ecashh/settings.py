@@ -26,7 +26,7 @@ SECRET_KEY = "django-insecure-gkahrl(1j^pfko005*%s%^$)bo8iyy3rz9^r&33_ml%@)r-u(-
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['192.168.1.204', '192.168.100.20']
+ALLOWED_HOSTS = ['192.168.1.204', '192.168.100.20','*','vati.pythonanywhere.com']
 
 
 # Application definition
